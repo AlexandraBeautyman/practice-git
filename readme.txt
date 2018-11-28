@@ -1,0 +1,1 @@
+I just created this document to practice using git and GitHub!
